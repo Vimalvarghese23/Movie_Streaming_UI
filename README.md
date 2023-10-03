@@ -1,4 +1,4 @@
 # movie_streaming_ui
 
 
-![Demo](./demo/demo-of-ui.gif)
+![Demo](https://ik.imagekit.io/ksjrdwbna/default-image.jpg?updatedAt=1696323050977)
